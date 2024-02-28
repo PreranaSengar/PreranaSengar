@@ -3,7 +3,7 @@
 -  📚I’m currently learning Java
 - 🚀💡🔗 I’m looking to collaborate on FrontEnd
 - 💬 Ask me about **HTML, CSS , JavaScript, JAVA**
-- 📧 How to reach me:**preranasengar@gmail.com**
+- 📧 How to reach me : **preranasengar@gmail.com**
 -  Fun fact: Curious to know new things 🤔 
 -  
   **Connect with me** 👇
