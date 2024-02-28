@@ -1,4 +1,4 @@
-## 👋🏼Hey, I'm Prerana Sengar
+### 👋🏼Hey, I'm Prerana Sengar
 - 💻I’m currently working as FrontEnd Doveloper
 -  📚I’m currently learning Java
 - 🚀💡🔗 I’m looking to collaborate on FrontEnd
