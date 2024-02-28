@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href=https://www.instagram.com/paurushi_2k2/ title="Redirect to Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
+     
+  <a href= "https://www.hackerrank.com/profile/preranasengar26" title="Redirect to Hacker Rank" target="_blank">
+    <img src=https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg&logo=hackerrank&logoColor=white" alt="hackerrank" /></a>
+
 </p>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
