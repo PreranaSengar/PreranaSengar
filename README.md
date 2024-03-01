@@ -21,4 +21,7 @@
 </p>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
+<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejPrakash18&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="PreranaSrengar"/>
+<img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=PreranaSrengar&theme=midnight-purple&hide_border=true"/>
+
   
