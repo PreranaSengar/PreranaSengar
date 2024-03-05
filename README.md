@@ -19,12 +19,11 @@
     <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg"&logo=hackerrank"&logoColor=white" alt="hackerrank" /></a>
 
 </p>
-<details>	
-  <summary><b>⚡ Github Status</b></summary>
-<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreranaSengar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="PreranaSrengar"/>
-<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreranaSengar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="PreranaSengar"/>
+<details>
+  <summary><b>⚡ Github Status </b></summary>
+<img height="118em" src="https://github-readme-stats.vercel.app/api?username=Gungandev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="PreranaSengar" />
+<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gungandev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="PreranaSengar"/>
 <img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=PreranaSengar&theme=midnight-purple&hide_border=true"/>
-
    </details>
 
   
