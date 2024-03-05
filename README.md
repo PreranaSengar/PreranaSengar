@@ -25,4 +25,6 @@
 <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreranaSengar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="PreranaSengar"/>
 <img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=PreranaSengar&theme=midnight-purple&hide_border=true"/>
 
+   </details>
+
   
