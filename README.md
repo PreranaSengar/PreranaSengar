@@ -1,7 +1,7 @@
 ### 👋🏼Hey, I'm Prerana Sengar
-- 💻I’m currently working as FrontEnd Doveloper
+- 💻I’m currently working as BackEnd Doveloper
 -  📚I’m currently learning Java
-- 🚀💡🔗 I’m looking to collaborate on FrontEnd
+- 🚀💡🔗 I’m looking to collaborate on BackEnd
 - 💬 Ask me about **HTML, CSS , JavaScript, JAVA**
 - 📧 How to reach me : **preranasengar@gmail.com**
 -  Fun fact: Curious to know new things 🤔 
